@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shrey-mehta.github.io/stock-fetch/static/css/main.17fc7556.chunk.css",
+    "main.js": "/shrey-mehta.github.io/stock-fetch/static/js/main.6e032bdd.chunk.js",
+    "main.js.map": "/shrey-mehta.github.io/stock-fetch/static/js/main.6e032bdd.chunk.js.map",
+    "runtime-main.js": "/shrey-mehta.github.io/stock-fetch/static/js/runtime-main.43f5f44f.js",
+    "runtime-main.js.map": "/shrey-mehta.github.io/stock-fetch/static/js/runtime-main.43f5f44f.js.map",
+    "static/js/2.e4264930.chunk.js": "/shrey-mehta.github.io/stock-fetch/static/js/2.e4264930.chunk.js",
+    "static/js/2.e4264930.chunk.js.map": "/shrey-mehta.github.io/stock-fetch/static/js/2.e4264930.chunk.js.map",
+    "index.html": "/shrey-mehta.github.io/stock-fetch/index.html",
+    "precache-manifest.17c2fce3299066c1699dfec010bf14c8.js": "/shrey-mehta.github.io/stock-fetch/precache-manifest.17c2fce3299066c1699dfec010bf14c8.js",
+    "service-worker.js": "/shrey-mehta.github.io/stock-fetch/service-worker.js",
+    "static/css/main.17fc7556.chunk.css.map": "/shrey-mehta.github.io/stock-fetch/static/css/main.17fc7556.chunk.css.map",
+    "static/js/2.e4264930.chunk.js.LICENSE": "/shrey-mehta.github.io/stock-fetch/static/js/2.e4264930.chunk.js.LICENSE",
+    "static/media/App.css": "/shrey-mehta.github.io/stock-fetch/static/media/giphy.cb07601b.gif",
+    "static/media/loader.gif": "/shrey-mehta.github.io/stock-fetch/static/media/loader.34cf5337.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f5f44f.js",
+    "static/js/2.e4264930.chunk.js",
+    "static/css/main.17fc7556.chunk.css",
+    "static/js/main.6e032bdd.chunk.js"
+  ]
+}
